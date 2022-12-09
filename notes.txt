@@ -1,0 +1,11 @@
+GO BASICS 
+
+UNDERSTANDING STATEMENTS AND TOKENS 
+
+KEYWORD: RESERVED FOR SPECIAL GO FUNCTIONALITY 
+OPERATORS AND PUNCTUATIONS => SYMBOLS TO DO MATH OPERATIONS 
+IDENTIFIER: Token used to identify things such as storage 
+locations or functions that perform actions
+LITERAL: A specific value or number, such as 123 or “Hello, world”
+
+
